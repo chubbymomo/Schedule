@@ -1,6 +1,6 @@
-Math Course: https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx
+[Math Course](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)
 
-Physics Book: https://nextcloud.thewilley.family/s/xMikYQzTziPtMLs/download/University%20Physics%20with%20Modern%20Physics%20%2815th%20Edition%29%20--%20Hugh%20D.%20Young,%20Roger%20A.%20Freedman%20--%2015,%202019%20--%20Pearson%20--%209780135159552%20--%2016a1b9ac736037e762f7e0e7b524bc0f%20--%20Anna%E2%80%99s%20Archive.pdf
+[Physics Book](https://nextcloud.thewilley.family/s/xMikYQzTziPtMLs/download/University%20Physics%20with%20Modern%20Physics%20%2815th%20Edition%29%20--%20Hugh%20D.%20Young,%20Roger%20A.%20Freedman%20--%2015,%202019%20--%20Pearson%20--%209780135159552%20--%2016a1b9ac736037e762f7e0e7b524bc0f%20--%20Anna%E2%80%99s%20Archive.pdf)
 
 ## Combined Physics and Calculus I Course Schedule
 
