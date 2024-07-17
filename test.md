@@ -399,4 +399,84 @@
   <summary><b>Week 12 Details</b> (<i>click to expand</i>)</summary>
 
 - October 2-3:
-  - Physics: 13.1-13.3 (Newton's Law of Gravitation, Weight, Gravitational
+  - Physics: 13.1-13.3 (Newton's Law of Gravitation, Weight, Gravitational Potential Energy)
+
+- October 4-5:
+  - Physics: 13.4-13.6 (Satellite Motion, Kepler's Laws, Spherical Mass Distributions)
+
+- October 6:
+  - Physics: 13.7-13.8 (Earth's Rotation, Black Holes)
+
+- October 7-8:
+  - Physics: 13.7-13.8 (Earth's Rotation, Black Holes), Review and Practice
+
+</details>
+
+### Week 13 (October 9-15)
+
+<details>
+  <summary><b>Week 13 Details</b> (<i>click to expand</i>)</summary>
+
+- October 9-10:
+  - Physics: 14.1-14.3 (Oscillation, Simple Harmonic Motion, Energy in SHM)
+
+- October 11-12:
+  - Physics: 14.4-14.6 (Applications of SHM, Simple and Physical Pendulums)
+
+- October 13:
+  - Physics: 14.7-14.8 (Damped Oscillations, Forced Oscillations)
+
+- October 14-15:
+  - Physics: 14.7-14.8 (Damped Oscillations, Forced Oscillations), Review and Practice
+
+</details>
+
+### Week 14 (October 16-22)
+
+<details>
+  <summary><b>Week 14 Details</b> (<i>click to expand</i>)</summary>
+
+- October 16-17:
+  - Physics: 15.1-15.3 (Types of Waves, Periodic Waves, Mathematical Description)
+
+- October 18-19:
+  - Physics: 15.4-15.5 (Wave Speed, Energy in Waves)
+
+- October 20:
+  - Physics: 15.6-15.8 (Wave Interference, Standing Waves, Normal Modes)
+
+- October 21-22:
+  - Physics: 15.6-15.8 (Wave Interference, Standing Waves, Normal Modes), Review and Practice
+
+</details>
+
+### Week 15 (October 23-29)
+
+<details>
+  <summary><b>Week 15 Details</b> (<i>click to expand</i>)</summary>
+
+- October 23-24:
+  - Physics: 16.1-16.3 (Sound Waves, Speed of Sound, Sound Intensity)
+
+- October 25-26:
+  - Physics: 16.4-16.6 (Standing Sound Waves, Resonance, Interference)
+
+- October 27:
+  - Physics: 16.7-16.9 (Beats, Doppler Effect, Shock Waves)
+
+- October 28-29:
+  - Physics: 16.7-16.9 (Beats, Doppler Effect, Shock Waves), Review and Practice
+
+</details>
+
+### Week 16 (October 30)
+
+<details>
+  <summary><b>Week 16 Details</b> (<i>click to expand</i>)</summary>
+
+- October 30:
+  - Final Review and Course Wrap-up
+
+</details>
+
+</details>
