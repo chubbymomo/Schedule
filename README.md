@@ -1,12 +1,12 @@
-[Math Course](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)
-
-[Physics Book](https://nextcloud.thewilley.family/s/xMikYQzTziPtMLs/download/University%20Physics%20with%20Modern%20Physics%20%2815th%20Edition%29%20--%20Hugh%20D.%20Young,%20Roger%20A.%20Freedman%20--%2015,%202019%20--%20Pearson%20--%209780135159552%20--%2016a1b9ac736037e762f7e0e7b524bc0f%20--%20Anna%E2%80%99s%20Archive.pdf)
-
-## Combined Physics and Calculus I Course Schedule
+# Combined Physics and Calculus I Course Schedule
 
 <details>
-  <summary>July</summary>
+  <summary><b>July</b> (<i>click to expand</i>)</summary>
+
 ### Week 1 (July 17-23)
+
+<details>
+  <summary><b>Week 1 Details</b> (<i>click to expand</i>)</summary>
 
 - July 17:
   - Physics: 1.1-1.3 (Nature of Physics, Problem Solving, Standards and Units)
@@ -36,7 +36,12 @@
   - Physics: 2.1-2.3 (Displacement, Time, Velocity, Acceleration) continued
   - Calculus: Exponential and Logarithm Equations, Common Graphs
 
+</details>
+
 ### Week 2 (July 24-30)
+
+<details>
+  <summary><b>Week 2 Details</b> (<i>click to expand</i>)</summary>
 
 - July 24:
   - Physics: 2.4-2.5 (Constant Acceleration, Freely Falling Objects)
@@ -65,8 +70,18 @@
 - July 30:
   - Physics: 3.3 (Projectile Motion)
   - Calculus: Infinite Limits
+
 </details>
+
+</details>
+
+<details>
+  <summary><b>August</b> (<i>click to expand</i>)</summary>
+
 ### Week 3 (July 31 - August 6)
+
+<details>
+  <summary><b>Week 3 Details</b> (<i>click to expand</i>)</summary>
 
 - July 31:
   - Physics: 3.3 (Projectile Motion) continued
@@ -96,7 +111,12 @@
   - Physics: 4.4-4.5 (Mass and Weight, Newton's Third Law)
   - Calculus: Differentiation Formulas (Day 1)
 
+</details>
+
 ### Week 4 (August 7-13)
+
+<details>
+  <summary><b>Week 4 Details</b> (<i>click to expand</i>)</summary>
 
 - August 7:
   - Physics: 4.6 (Free-Body Diagrams)
@@ -126,7 +146,12 @@
   - Physics: 5.3 (Friction Forces) continued
   - Calculus: Chain Rule (Day 1)
 
+</details>
+
 ### Week 5 (August 14-20)
+
+<details>
+  <summary><b>Week 5 Details</b> (<i>click to expand</i>)</summary>
 
 - August 14:
   - Physics: 5.4 (Dynamics of Circular Motion)
@@ -156,7 +181,12 @@
   - Physics: 6.3-6.4 (Work with Varying Forces, Power) continued
   - Calculus: Critical Points
 
+</details>
+
 ### Week 6 (August 21-27)
+
+<details>
+  <summary><b>Week 6 Details</b> (<i>click to expand</i>)</summary>
 
 - August 21:
   - Physics: Review and Practice (Work and Kinetic Energy)
@@ -186,7 +216,12 @@
   - Physics: 7.5 (Energy Diagrams)
   - Calculus: More Optimization Problems
 
+</details>
+
 ### Week 7 (August 28 - September 3)
+
+<details>
+  <summary><b>Week 7 Details</b> (<i>click to expand</i>)</summary>
 
 - August 28:
   - Physics: 7.5 (Energy Diagrams) continued
@@ -204,6 +239,18 @@
   - Physics: 8.1-8.2 (Momentum, Impulse, Conservation of Momentum) continued
   - Calculus: Newton's Method
 
+</details>
+
+</details>
+
+<details>
+  <summary><b>September</b> (<i>click to expand</i>)</summary>
+
+### Week 7 (August 28 - September 3) - Continued
+
+<details>
+  <summary><b>Week 7 Details (Continued)</b> (<i>click to expand</i>)</summary>
+
 - September 1:
   - Physics: 8.3-8.4 (Momentum Conservation in Collisions, Elastic Collisions)
   - Calculus: Business Applications
@@ -216,7 +263,12 @@
   - Physics: 8.5-8.6 (Center of Mass, Rocket Propulsion)
   - Calculus: Computing Indefinite Integrals
 
+</details>
+
 ### Week 8 (September 4-10)
+
+<details>
+  <summary><b>Week 8 Details</b> (<i>click to expand</i>)</summary>
 
 - September 4:
   - Physics: 8.5-8.6 (Center of Mass, Rocket Propulsion) continued
@@ -246,7 +298,12 @@
   - Physics: 9.6 (Moment-of-Inertia Calculations)
   - Calculus: Average Function Value
 
+</details>
+
 ### Week 9 (September 11-17)
+
+<details>
+  <summary><b>Week 9 Details</b> (<i>click to expand</i>)</summary>
 
 - September 11:
   - Physics: 9.6 (Moment-of-Inertia Calculations) continued
@@ -276,54 +333,150 @@
   - Physics: 10.6-10.7 (Conservation of Angular Momentum, Gyroscopes)
   - Calculus: Review and Practice
 
+</details>
+
 ### Week 10 (September 18-24)
 
-- September 18-24:
-  - Physics: 
-    - September 18: 10.6-10.7 (Conservation of Angular Momentum, Gyroscopes) continued
-    - September 19-20: Review and Practice (Dynamics of Rotational Motion)
-    - September 21: 11.1-11.2 (Conditions for Equilibrium, Center of Gravity)
-    - September 22: 11.3-11.4 (Solving Equilibrium Problems, Stress and Strain)
-    - September 23: 11.3-11.4 (Solving Equilibrium Problems, Stress and Strain) continued
-    - September 24: 11.5 (Elasticity and Plasticity)
+<details>
+  <summary><b>Week 10 Details</b> (<i>click to expand</i>)</summary>
+
+- September 18:
+  - Physics: 10.6-10.7 (Conservation of Angular Momentum, Gyroscopes) continued
   - Calculus: Final Review and Exam Preparation
+
+- September 19-20:
+  - Physics: Review and Practice (Dynamics of Rotational Motion)
+  - Calculus: Final Review and Exam Preparation
+
+- September 21:
+  - Physics: 11.1-11.2 (Conditions for Equilibrium, Center of Gravity)
+  - Calculus: Final Review and Exam Preparation
+
+- September 22:
+  - Physics: 11.3-11.4 (Solving Equilibrium Problems, Stress and Strain)
+  - Calculus: Final Review and Exam Preparation
+
+- September 23:
+  - Physics: 11.3-11.4 (Solving Equilibrium Problems, Stress and Strain) continued
+  - Calculus: Final Review and Exam Preparation
+
+- September 24:
+  - Physics: 11.5 (Elasticity and Plasticity)
+  - Calculus: Final Review and Exam Preparation
+
+</details>
 
 ### Week 11 (September 25 - October 1)
 
-- September 25-26: 11.5 (Elasticity and Plasticity), Review and Practice
-- September 26: 12.1-12.2 (Gases, Liquids, Density, Pressure in Fluids)
-- September 27-28: 12.3-12.4 (Buoyancy, Fluid Flow)
-- September 29: 12.5-12.6 (Bernoulli's Equation, Viscosity)
-- September 30 - October 1: 12.5-12.6 (Bernoulli's Equation, Viscosity), Review and Practice
+<details>
+  <summary><b>Week 11 Details</b> (<i>click to expand</i>)</summary>
+
+- September 25-26:
+  - Physics: 11.5 (Elasticity and Plasticity), Review and Practice
+
+- September 26:
+  - Physics: 12.1-12.2 (Gases, Liquids, Density, Pressure in Fluids)
+
+- September 27-28:
+  - Physics: 12.3-12.4 (Buoyancy, Fluid Flow)
+
+- September 29:
+  - Physics: 12.5-12.6 (Bernoulli's Equation, Viscosity)
+
+- September 30 - October 1:
+  - Physics: 12.5-12.6 (Bernoulli's Equation, Viscosity), Review and Practice
+
+</details>
+
+</details>
+
+<details>
+  <summary><b>October</b> (<i>click to expand</i>)</summary>
 
 ### Week 12 (October 2-8)
 
-- October 2-3: 13.1-13.3 (Newton's Law of Gravitation, Weight, Gravitational Potential Energy)
-- October 4-5: 13.4-13.6 (Satellite Motion, Kepler's Laws, Spherical Mass Distributions)
-- October 6: 13.7-13.8 (Earth's Rotation, Black Holes)
-- October 7-8: 13.7-13.8 (Earth's Rotation, Black Holes), Review and Practice
+<details>
+  <summary><b>Week 12 Details</b> (<i>click to expand</i>)</summary>
+
+- October 2-3:
+  - Physics: 13.1-13.3 (Newton's Law of Gravitation, Weight, Gravitational Potential Energy)
+
+- October 4-5:
+  - Physics: 13.4-13.6 (Satellite Motion, Kepler's Laws, Spherical Mass Distributions)
+
+- October 6:
+  - Physics: 13.7-13.8 (Earth's Rotation, Black Holes)
+
+- October 7-8:
+  - Physics: 13.7-13.8 (Earth's Rotation, Black Holes), Review and Practice
+
+</details>
 
 ### Week 13 (October 9-15)
 
-- October 9-10: 14.1-14.3 (Oscillation, Simple Harmonic Motion, Energy in SHM)
-- October 11-12: 14.4-14.6 (Applications of SHM, Simple and Physical Pendulums)
-- October 13: 14.7-14.8 (Damped Oscillations, Forced Oscillations)
-- October 14-15: 14.7-14.8 (Damped Oscillations, Forced Oscillations), Review and Practice
+<details>
+  <summary><b>Week 13 Details</b> (<i>click to expand</i>)</summary>
+
+- October 9-10:
+  - Physics: 14.1-14.3 (Oscillation, Simple Harmonic Motion, Energy in SHM)
+
+- October 11-12:
+  - Physics: 14.4-14.6 (Applications of SHM, Simple and Physical Pendulums)
+
+- October 13:
+  - Physics: 14.7-14.8 (Damped Oscillations, Forced Oscillations)
+
+- October 14-15:
+  - Physics: 14.7-14.8 (Damped Oscillations, Forced Oscillations), Review and Practice
+
+</details>
 
 ### Week 14 (October 16-22)
 
-- October 16-17: 15.1-15.3 (Types of Waves, Periodic Waves, Mathematical Description)
-- October 18-19: 15.4-15.5 (Wave Speed, Energy in Waves)
-- October 20: 15.6-15.8 (Wave Interference, Standing Waves, Normal Modes)
-- October 21-22: 15.6-15.8 (Wave Interference, Standing Waves, Normal Modes), Review and Practice
+<details>
+  <summary><b>Week 14 Details</b> (<i>click to expand</i>)</summary>
+
+- October 16-17:
+  - Physics: 15.1-15.3 (Types of Waves, Periodic Waves, Mathematical Description)
+
+- October 18-19:
+  - Physics: 15.4-15.5 (Wave Speed, Energy in Waves)
+
+- October 20:
+  - Physics: 15.6-15.8 (Wave Interference, Standing Waves, Normal Modes)
+
+- October 21-22:
+  - Physics: 15.6-15.8 (Wave Interference, Standing Waves, Normal Modes), Review and Practice
+
+</details>
 
 ### Week 15 (October 23-29)
 
-- October 23-24: 16.1-16.3 (Sound Waves, Speed of Sound, Sound Intensity)
-- October 25-26: 16.4-16.6 (Standing Sound Waves, Resonance, Interference)
-- October 27: 16.7-16.9 (Beats, Doppler Effect, Shock Waves)
-- October 28-29: 16.7-16.9 (Beats, Doppler Effect, Shock Waves), Review and Practice
+<details>
+  <summary><b>Week 15 Details</b> (<i>click to expand</i>)</summary>
+
+- October 23-24:
+  - Physics: 16.1-16.3 (Sound Waves, Speed of Sound, Sound Intensity)
+
+- October 25-26:
+  - Physics: 16.4-16.6 (Standing Sound Waves, Resonance, Interference)
+
+- October 27:
+  - Physics: 16.7-16.9 (Beats, Doppler Effect, Shock Waves)
+
+- October 28-29:
+  - Physics: 16.7-16.9 (Beats, Doppler Effect, Shock Waves), Review and Practice
+
+</details>
 
 ### Week 16 (October 30)
 
-- October 30: Final Review and Course Wrap-up
+<details>
+  <summary><b>Week 16 Details</b> (<i>click to expand</i>)</summary>
+
+- October 30:
+  - Final Review and Course Wrap-up
+
+</details>
+
+</details>
