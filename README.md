@@ -4,6 +4,8 @@
 
 ## Combined Physics and Calculus I Course Schedule
 
+<details>
+  <summary>July</summary>
 ### Week 1 (July 17-23)
 
 - July 17:
@@ -63,7 +65,7 @@
 - July 30:
   - Physics: 3.3 (Projectile Motion)
   - Calculus: Infinite Limits
-
+</details>
 ### Week 3 (July 31 - August 6)
 
 - July 31:
